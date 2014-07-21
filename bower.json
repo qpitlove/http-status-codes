@@ -1,0 +1,14 @@
+{
+  "name": "http-status-codes",
+  "version": "0.0.0",
+  "main": "http-status-codes.js",
+  "license": "MIT",
+  "ignore": [
+    "*.md"
+  ],
+  "keywords": [
+    "http",
+    "status",
+    "codes"
+  ]
+}
