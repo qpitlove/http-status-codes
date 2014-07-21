@@ -6,7 +6,7 @@
  *
  * Based on the org.apache.commons.httpclient.HttpStatus Java API.
  *
- * Ported by Bryce Neal. Modified into Bower component by Emma Tang(@jokomo) and Harish Yeluri(@hyeluri).
+ * Ported by Bryce Neal. Modified into Bower component by Emma Tang(@jokomo)
  */
 
 (function () {
